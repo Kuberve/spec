@@ -98,7 +98,7 @@
 
 | Путь | Назначение |
 |---|---|
-| `/system/conf/init.conf` | список сервисов для init |
+| `/system/conf/init.cfg` | список сервисов для init |
 | `/system/bin/init` | PID 1, читает init.conf |
 | `/system/bin/uart` | uart_server (пока единственный сервис) |
 
